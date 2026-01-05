@@ -1,4 +1,6 @@
 telethon
 python-dotenv
 httpx
+requests
 pytz
+
